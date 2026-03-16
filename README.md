@@ -53,7 +53,7 @@
 | WebViewTV               | v2.1.1   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/WebViewTV) | 🟢    | 直接使用官网直播链接，非常稳定可靠，稳定版下载v2.0.4，尝鲜版下载v2.1.1 |
 | 七星电视                | 251209      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/七星电视2.0.apk) | 🟢    | 内置央网源。软件没有什乱七八糟的东西，就是卫.央.当地，主打的就是一个稳 |
 | 悠悠电视                | v1.0.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/悠悠电视_1.0.3.apk) | 🟢    | 无需登录，打开即可收看各个频道，并且播放流畅，显示画面清晰无卡顿 |
-| 电视直播                | v1.3.0.172  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/mytv-android/mytv-android-tv-1.3.0.172-all-sdk21-正常版.apk) | 🟢    | 基于天光云影3.3.9，使用Android原生开发的电视直播软件         |
+| 电视直播                | v1.1.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/电视直播v1.1.0.apk) | 🟢    | 内置的直播，支持用户导入源和epg |
 | 电视家修复版            | v10.2.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/电视家TV+5.0+稳定秒播版+稀缺.apk) | 🔴  | 稳定秒播版+稀缺。**目前无节目**                               |
 | 全网通电视              | v1.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/全网通电视(安卓4)1.0.apk) | 🟢    | 支持安卓4，部分频道需要扫描开发者的小程序获取密码，切勿付费！ |
 | 宽带直播                | v1.0.18     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_1.0.18.apk) | 🟢    | 大屏直播，简约稳定                                           |
